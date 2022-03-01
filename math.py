@@ -1,12 +1,12 @@
 #add implementation
 def add(x,y):
     return x+y
-#sub   
+#sub implementation  
 def sub(x,y):
-    return x-y #on master branch
+    return x-y 
 #mul    
 def mul(x,y):
-    return x*y #on bug456 branch
+    return x*y 
 #div   
 def divd(x,y):
     if(y==0):
